@@ -31,8 +31,8 @@ p{ white-space:pre-wrap;}
     若没有看见此窗口，可从左上view勾选layer bar
 - 第二步——添加object
     - 添加player 
-    - 添加enemy
-    - 添加bullet
+    - 添加enemy（Ctrl+S能复制）
+    - 添加bullet（要放在画布之外）
     - 添加你喜欢的东西
     ![](images/6.gif)
     PS：可以使用win10自带的画图3D进行抠图
@@ -49,24 +49,25 @@ p{ white-space:pre-wrap;}
      - 给Explosion对象添加Fade行为。Fade行为默认会销毁对象，所以不用担心对象有没有销毁。
 [感谢老学长的指导](https://blog.csdn.net/ZhangyunqingGC/article/details/78360290)  
 ---------------------
+- 第四步——开始调试操作、游戏设置
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;举个例子
+  - 前提操作（以插入object的方式插入键鼠）
+  - 切换到Event sheet1页面点击Add event→system→every tick
+  - 然后Add actio→选择player→Set angle toward position→Mouse→![](images/88.png)
+  - PS：上面半透明的可以充当设置指南
+![](images/7.gif)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;后面就是按照你的想法自由发挥啦
+![](images/99.png)
+>  以上仅供参考
+- 第五步——运行游戏，修改设定
+    - 发现怪飞得老快？嫌弃角色飞的太慢？来修改参数吧
+    ![](images/555.gif)
+- 第六步——优化游戏
+    - 怪物乱飞：System→On start of Layout Monster→Set angle→random(360)  
+    - 怪物碰到边缘返回：Monster→Is outside layout  Monster→Set angle toward position→For X，Player.X - for Y,Player.Y 
+    - 还有各种例如设置血量，时间，计分等，有需要可以百度寻找方法
 
+---------------------
 
-  - level 2 item
-    - level 3 item
-    - level 3 item
-    - level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-    - level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-    - level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
+## 个CAI人JI作品展示
 ![](images/666.gif)
