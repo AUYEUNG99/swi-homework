@@ -8,18 +8,18 @@
 * Player：手拿神弓的超级大眼萌，为守卫地狱传送门死守于此 
 * 怪物: 邪恶的红眼暴龙 & 邪恶的红眼小兵 
 ## 游戏设计
-
+```
 | Object Name  |  player|
 |-|:-:|-:|
 | Attributes |   (372, 240)  |
 | Collaborator | Sprite |
 | Events & Actions  | 8Direction & ScrollTo & BoundToLayout |
 .
-| Object Name  | player            |       |
-|:-------------|:------------------|:------|
-| Attributes   | (372, 240)        |       |
-| Collaborator | Sprite            |       |
-|Events & Actions|8Direction & ScrollTo & BoundToLayout |       |
-
+| Object Name  | player                                  |
+|:-------------|:----------------------------------------|
+| Attributes   | (372, 240)                              |
+| Collaborator | Sprite                                  |
+|Events & Actions| 8Direction & ScrollTo & BoundToLayout |
+```
 ## 个CAI人JI作品展示
 ![](images/666.gif)
