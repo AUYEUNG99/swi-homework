@@ -9,10 +9,10 @@
 * 怪物: 邪恶的红眼暴龙 & 邪恶的红眼小兵 
 ## 游戏设计
 
-* Object Name    player
-* Attributes ![](images/0.png) (372, 240)  
-* Collaborator | Sprite |
-* Events & Actions  | 8Direction & ScrollTo & BoundToLayout |
+| Object Name  |  player|
+| Attributes | ![](images/0.png) | (372, 240)  |
+| Collaborator | Sprite |
+| Events & Actions  | 8Direction & ScrollTo & BoundToLayout |
 * Object Name    player
 * Attributes ![](images/0.png) (372, 240)  
 * Collaborator | Sprite |
