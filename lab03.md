@@ -40,3 +40,5 @@
 | Collaborator | Sprite
 | Events & Actions | 碰撞并销毁自己 
 .
+## 个CAI人JI作品展示
+![](images/666.gif)
