@@ -14,21 +14,12 @@
 | Attributes |   (372, 240)  |
 | Collaborator | Sprite |
 | Events & Actions  | 8Direction & ScrollTo & BoundToLayout |
-* Object Name    player
-* Attributes ![](images/0.png) (372, 240)  
-* Collaborator | Sprite |
-* Events & Actions  | 8Direction & ScrollTo & BoundToLayout |
-* Object Name    player
-* Attributes ![](images/0.png) (372, 240)  
-* Collaborator | Sprite |
-* Events & Actions  | 8Direction & ScrollTo & BoundToLayout |
-* Object Name    player
-* Attributes ![](images/0.png) (372, 240)  
-* Collaborator | Sprite |
-* Events & Actions  | 8Direction & ScrollTo & BoundToLayout |
-* Object Name    player
-* Attributes ![](images/0.png) (372, 240)  
-* Collaborator | Sprite |
-* Events & Actions  | 8Direction & ScrollTo & BoundToLayout |
+.
+| Object Name  | player            |       |
+|:-------------|:------------------|:------|
+| Attributes   | (372, 240)        |       |
+| Collaborator | Sprite            |       |
+|Events & Actions|8Direction & ScrollTo & BoundToLayout |       |
+
 ## 个CAI人JI作品展示
 ![](images/666.gif)
