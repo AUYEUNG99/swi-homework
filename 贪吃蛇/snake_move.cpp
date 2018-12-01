@@ -85,9 +85,9 @@ int main() {
 			default:
 			break;		
 		}
-		gameover();
-		map[snakeY[snakeLength - 1]][snakeX[snakeLength - 1]] = SNAKE_HEAD;
-		drawMap(map); 
+		gameover(); 
+		map[snakeY[snakeLength - 1]][snakeX[snakeLength - 1]] = SNAKE_HEAD;//蛇头的移动 
+		drawMap(map); //再次打印地图 
 	}
 }
 
