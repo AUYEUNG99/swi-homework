@@ -28,7 +28,7 @@
 11. [11-风投与中国](lab11)
 12. [12-贪吃蛇代码](lab12)
 13. [13-智能蛇代码](lab13)
-
+14. [14-互联网时代的盈利模式](lab14)
 ## Markdown 语法演示
 
 ![](images/exclamation.png) 语法 [demo 文档](demo)， [source](https://github.com/sysu-swi/homework/blob/gh-pages/demo.md)
