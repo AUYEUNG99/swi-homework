@@ -29,6 +29,7 @@
 12. [12-贪吃蛇代码](lab12)
 13. [13-智能蛇代码](lab13)
 14. [14-互联网时代的盈利模式](lab14)
+15. [15-互联网时代的热点领域选择、营销方法](lab15)
 ## Markdown 语法演示
 
 ![](images/exclamation.png) 语法 [demo 文档](demo)， [source](https://github.com/sysu-swi/homework/blob/gh-pages/demo.md)
